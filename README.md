@@ -10,7 +10,6 @@ Welcome to my GitHub profile!
 
 ## Skills
 - **Programming Languages**: Game Design
-- **Frameworks and Libraries**: [List of Frameworks/Libraries]
 - **Tools and Technologies**: Unity
 
 ## Projects
