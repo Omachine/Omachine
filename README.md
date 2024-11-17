@@ -13,9 +13,8 @@ Welcome to my GitHub profile!
 - **Tools and Technologies**: Unity
 
 ## Projects
-- [Project 1](Link to Project 1)
-- [Project 2](Link to Project 2)
-- [Project 3](Link to Project 3)
+Currently working on a little project for a Roguelike Game called Goose Battle in a Team of 3 people
+
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/gon%C3%A7alo-cruz-67997b310/)
