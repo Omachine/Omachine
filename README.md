@@ -13,7 +13,7 @@ Welcome to my GitHub profile!
 - **Tools and Technologies**: Unity
 
 ## Projects
-Currently working on a little project for a Roguelike Game called Goose Battle in a Team of 3 people
+Currently working on a project for a Sailing Game and working on water and buoyancy physics in a Team of 3 people
 
 
 ## Connect with Me
